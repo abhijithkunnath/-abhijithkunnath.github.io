@@ -1,0 +1,94 @@
+{
+    "items":[
+        {
+          "serialNumber":1,
+          "name":"Rice",
+          "quantity":10,
+          "unit":"Kg",
+          "Department":"vegitables",
+          "Notes":"White Rice"
+          
+        },
+        {
+            "serialNumber":2,
+          "name":"Onion",
+          "quantity":2,
+          "unit":"Kg",
+          "Department":"Cerials",
+          "Notes":"Fresh Vegitables",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":3,
+          "name":"Carrot",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Vegitables",
+          "Notes":"Fresh",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":4,
+          "name":"Potato",
+          "quantity":2,
+          "unit":"Kg",
+          "Department":"Vegitables",
+          "Notes":"Baby potatoes",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":5,
+          "name":"Banana",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Fruits",
+          "Notes":"Packet",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":6,
+          "name":"Egg",
+          "quantity":20,
+          "unit":"No's",
+          "Department":"Dairy",
+          "Notes":"Fresh",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":7,
+          "name":"Milk",
+          "quantity":1,
+          "unit":"L",
+          "Department":"Dairy",
+          "Notes":"Amul Milk",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":8,
+          "name":"Washing powder",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Cleansers",
+          "Notes":"Tide",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":9,
+          "name":"Chicken Masala ",
+          "quantity":150,
+          "unit":"gm",
+          "Department":"Spices",
+          "Notes":" For biriyani",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":10,
+          "name":"Chicken",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Meat",
+          "Notes":"Non-Antibiotic Chicken",
+          "Bought":"<input type='checkbox'>"
+        }
+    ]
+}
