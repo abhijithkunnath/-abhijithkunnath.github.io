@@ -12,13 +12,13 @@ function items() {
 
             document.getElementById("items").innerHTML = `<thead>
         <tr>
-          <th scope="col">Sl No</th>
+          <th scope="col">Sl-No</th>
           <th scope="col">Items</th>
           <th scope="col">Quantity</th>
           <th scope="col">Unit</th>
           <th scope="col">Department</th>
           <th scope="col">Notes</th>
-          <th scope="col">Status?</th>
+          <th scope="col">Status ?</th>
         </tr>
       </thead>
       <tbody id="tableBody">
