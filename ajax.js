@@ -12,7 +12,7 @@ function items() {
 
             document.getElementById("items").innerHTML = `<thead>
         <tr>
-          <th scope="col">#</th>
+          <th scope="col">Sl No</th>
           <th scope="col">Items</th>
           <th scope="col">Quantity</th>
           <th scope="col">Unit</th>
